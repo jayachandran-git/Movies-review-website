@@ -1,0 +1,57 @@
+
+  .slider-container {
+    width: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+  }
+  @media (max-width: 768px) {
+    .movie-list {
+      width: 100%;
+      height: auto;
+    }
+  }
+
+  .movie-list {
+    background: black;
+    color: white;
+    border-radius: 15px;
+    overflow: hidden;
+    width: 13.5rem;
+    height: 32rem;
+    box-sizing: border-box;
+  }
+ 
+  .card-body {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+
+  
+  h1{
+    color: rgb(28, 216, 14);
+    font-style: oblique;
+  }
+  hr{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-top: 5px solid red; 
+}
+.foot{
+  background-color: black;
+  color: white;
+  height: 100px;
+  padding: 20px;
+  width: 100%;
+  
+}
+.sfooter{
+  
+  color: orange;
+}
+.ctitle{
+  color: red;
+}
+.cdate{
+  color: orange;
+}

@@ -1,0 +1,39 @@
+.movie-img{
+    width: 300px;
+    height: 400px;
+    position: relative;
+    left: 10px;
+}
+.movie-detail{
+    position: relative;
+    left: 320px;
+    bottom: 400px;
+    color: black;
+    width: 1000px;
+    height: 400px;
+    background-color:rgb(181, 212, 90);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 5px;
+    
+}
+.submit-review{
+    position: relative;
+    bottom: 300px;
+    color: white;
+    left: 10px;
+}
+.submit-button{
+    color: black;
+    background-color: green;
+    margin-top: 20px;
+}
+.submit-input{
+    background-color: rgb(206, 98, 30);
+}
+.reviews-data{
+    position: relative;
+    color: white;
+    top: -500px;
+    margin-left: 600px;
+    
+}
